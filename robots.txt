@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://stillgepenk.github.io/sitemap.xml
